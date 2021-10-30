@@ -1,3 +1,4 @@
+// En NodeJs "SI ALGO PUEDE SALIR MAL SALDRA MAL" hay que tener mucho cuidado con cada faceta del codigo!!!
 console.log("Hello Node");
 
 // Simulando un error para probar conceptos de Node
